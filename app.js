@@ -31,10 +31,10 @@ const data = {
 }
 
 const jsonData = JSON.stringify(data);
-const url = "https://us17.api.mailchimp.com/3.0/lists/2e1c769a26";
+const url = "";
 const options ={
   method: "POST",
-  auth: "nikita1:5adb5e5ec15525e96fc80adb4c501705-us17"
+  auth: ""
 }
 
 
